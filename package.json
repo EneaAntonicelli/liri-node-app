@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "liri node homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EneaAntonicelli/liri-node-app.git"
+  },
+  "author": "Enea Antonicelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EneaAntonicelli/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/EneaAntonicelli/liri-node-app#readme"
+}
