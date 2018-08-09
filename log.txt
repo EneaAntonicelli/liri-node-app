@@ -1,0 +1,30 @@
+
+SPOTIFY INTO: 
+The Artist name is: Céline Dion
+The song name is: Ashes - from "Deadpool 2" Motion Picture Soundtrack
+The album name is: Ashes (from "Deadpool 2" Motion Picture Soundtrack)
+Listen to the song here: https://p.scdn.co/mp3-preview/c30dbc2491046127f98c87e81b563c2d04b15399?cid=c552f11ec0974f49a7ff40167556bfb9
+MOVIE INFO: 
+The title of the movie is: Gladiator
+Year the movie came out: 2000
+The movie's rating is: 8.5
+Rotten Tomatoes Rating of the movie: 77%
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+MOVIE INFO: 
+The title of the movie is: Gladiator
+Year the movie came out: 2000
+The movie's rating is: 8.5
+Rotten Tomatoes Rating of the movie: 77%
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 04:28:59 +0000 2018
+Tweet: Test Tweet #1
+
+doWhatItSays INFO: 
+Do what it says data: spotify-this-song,"I Want it That Way"
