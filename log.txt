@@ -1,30 +1,98 @@
 
-SPOTIFY INTO: 
+MOVIE INFO: 
+The title of the movie is: The Breakfast Club
+Year the movie came out: 1985
+The movie's rating is: 7.9
+Rotten Tomatoes Rating of the movie: 88%
+Country where the movie was produced: USA
+Language of the movie: English
+Actors in the movie: Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos
+
+SPOTIFY INFO: 
 The Artist name is: Céline Dion
 The song name is: Ashes - from "Deadpool 2" Motion Picture Soundtrack
 The album name is: Ashes (from "Deadpool 2" Motion Picture Soundtrack)
 Listen to the song here: https://p.scdn.co/mp3-preview/c30dbc2491046127f98c87e81b563c2d04b15399?cid=c552f11ec0974f49a7ff40167556bfb9
-MOVIE INFO: 
-The title of the movie is: Gladiator
-Year the movie came out: 2000
-The movie's rating is: 8.5
-Rotten Tomatoes Rating of the movie: 77%
-Country where the movie was produced: USA, UK
-Language of the movie: English
-Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
-
-MOVIE INFO: 
-The title of the movie is: Gladiator
-Year the movie came out: 2000
-The movie's rating is: 8.5
-Rotten Tomatoes Rating of the movie: 77%
-Country where the movie was produced: USA, UK
-Language of the movie: English
-Actors in the movie: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
 
 TWITTER INFO: 
-Tweet created: Thu Aug 09 04:28:59 +0000 2018
-Tweet: Test Tweet #1
+Tweet created: Fri Aug 10 23:12:58 +0000 2018
+Tweet: Deal with Mexico is coming along nicely. Autoworkers and farmers must be taken care of or there will be no deal. Ne… https://t.co/lzN6xjL2Jk
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 22:58:05 +0000 2018
+Tweet: Thank you to Kanye West and the fact that he is willing to tell the TRUTH. One new and great FACT - African America… https://t.co/3WkFlEWfy5
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 22:47:45 +0000 2018
+Tweet: Had a very good phone call with @EmmanuelMacron, President of France. Discussed various subjects, in particular Sec… https://t.co/Wxrno7cb8f
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 21:30:43 +0000 2018
+Tweet: Democrats, please do not distance yourselves from Nancy Pelosi. She is a wonderful person whose ideas &amp; policies ma… https://t.co/WSd4CvmFQL
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 12:47:42 +0000 2018
+Tweet: I have just authorized a doubling of Tariffs on Steel and Aluminum with respect to Turkey as their currency, the Tu… https://t.co/2m92Jw7Tbk
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 12:32:40 +0000 2018
+Tweet: .....Be happy, be cool! A football game, that fans are paying soooo much money to watch and enjoy, is no place to p… https://t.co/PafpzKzMCT
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 12:18:55 +0000 2018
+Tweet: The NFL players are at it again - taking a knee when they should be standing proudly for the National Anthem. Numer… https://t.co/wbN9RbBj7a
+
+TWITTER INFO: 
+Tweet created: Fri Aug 10 11:49:48 +0000 2018
+Tweet: .@MariaBartiromo  “No evidence to launch even an investigation into potential collusion between Donald Trump and th… https://t.co/vtSwEL0wak
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 22:50:31 +0000 2018
+Tweet: Jenna Ellis  “FBI thought they wouldn’t get caught because they thought that Hillary was going to win. There is ove… https://t.co/se6bVYavBk
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 19:43:25 +0000 2018
+Tweet: @LindseyGrahamSC  “Why didn’t the FBI tell President Trump that they had concerns about Carter Page? Is there a dou… https://t.co/f8hIHzmDiS
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 17:00:42 +0000 2018
+Tweet: Congressman Ted Yoho of Florida is doing a fantastic job and has my complete and total Endorsement! Tough on Crime… https://t.co/OhGe48VbMr
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 16:03:30 +0000 2018
+Tweet: Space Force all the way!
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 16:02:33 +0000 2018
+Tweet: This is an illegally brought Rigged Witch Hunt run by people who are totally corrupt and/or conflicted. It was star… https://t.co/Nwrs5M3iDC
+
+TWITTER INFO: 
+Tweet created: Thu Aug 09 13:22:39 +0000 2018
+Tweet: “There has been no evidence whatsoever that Donald Trump or the campaign was involved in any kind of collusion to f… https://t.co/bKtcI3tXBv
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 18:51:39 +0000 2018
+Tweet: RED WAVE!
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 18:07:43 +0000 2018
+Tweet: Congratulations to @LenaEpstein of Michigan on a job well done. Also, thanks for your great support!
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 15:25:55 +0000 2018
+Tweet: As long as I campaign and/or support Senate and House candidates (within reason), they will win! I LOVE the people,… https://t.co/RY6QtbDhp4
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 15:14:26 +0000 2018
+Tweet: The Republicans have now won 8 out of 9 House Seats, yet if you listen to the Fake News Media you would think we ar… https://t.co/o78kNMeoCL
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 14:31:14 +0000 2018
+Tweet: 5 for 5!
+
+TWITTER INFO: 
+Tweet created: Wed Aug 08 04:28:09 +0000 2018
+Tweet: Congratulations to Josh Hawley on your big Senate Primary win in Missouri. I look forward to working with you towar… https://t.co/gGWY572ROS
 
 doWhatItSays INFO: 
 Do what it says data: spotify-this-song,"I Want it That Way"
